@@ -1,2 +1,2 @@
-# ScreenShot-py
-Get screenshot for all urls in browser!
+# ScreenShot on python (browser)
+Сделайте скриншот прямо из браузера!
