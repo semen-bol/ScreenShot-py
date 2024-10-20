@@ -15,7 +15,7 @@ class getScreenShot():
         str = f"{genNaming(30)}.png"
 
         self.driver.get(url)
-        self.driver.save_screenshot(f"./screens/{genNaming(25)}.png")
+        self.driver.save_screenshot(str)
 
         return str
 
